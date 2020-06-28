@@ -50,12 +50,12 @@ export const create_chess_board = () => {
   ]
   const typeParts = [
     'rook',
-    'bishop',
     'knight',
+    'bishop',
     'queen',
     'king',
-    'knight',
     'bishop',
+    'knight',
     'rook',
   ]
 
