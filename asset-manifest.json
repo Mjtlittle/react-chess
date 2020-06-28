@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-chess/static/css/main.911359a6.chunk.css",
+    "main.js": "/react-chess/static/js/main.8f229fad.chunk.js",
+    "main.js.map": "/react-chess/static/js/main.8f229fad.chunk.js.map",
+    "runtime-main.js": "/react-chess/static/js/runtime-main.421fb380.js",
+    "runtime-main.js.map": "/react-chess/static/js/runtime-main.421fb380.js.map",
+    "static/js/2.68563be0.chunk.js": "/react-chess/static/js/2.68563be0.chunk.js",
+    "static/js/2.68563be0.chunk.js.map": "/react-chess/static/js/2.68563be0.chunk.js.map",
+    "index.html": "/react-chess/index.html",
+    "precache-manifest.62ad7e2641c46cebfae350489fc224f8.js": "/react-chess/precache-manifest.62ad7e2641c46cebfae350489fc224f8.js",
+    "service-worker.js": "/react-chess/service-worker.js",
+    "static/css/main.911359a6.chunk.css.map": "/react-chess/static/css/main.911359a6.chunk.css.map",
+    "static/js/2.68563be0.chunk.js.LICENSE.txt": "/react-chess/static/js/2.68563be0.chunk.js.LICENSE.txt",
+    "static/media/b_bishop.svg": "/react-chess/static/media/b_bishop.cc440371.svg",
+    "static/media/b_king.svg": "/react-chess/static/media/b_king.f0d0d19f.svg",
+    "static/media/b_knight.svg": "/react-chess/static/media/b_knight.a651e3ac.svg",
+    "static/media/b_pawn.svg": "/react-chess/static/media/b_pawn.c64efe83.svg",
+    "static/media/b_queen.svg": "/react-chess/static/media/b_queen.21b99ed2.svg",
+    "static/media/b_rook.svg": "/react-chess/static/media/b_rook.f4020d2d.svg",
+    "static/media/Board.module.sass": "/react-chess/static/media/board.c3b7f72a.svg",
+    "static/media/profile.svg": "/react-chess/static/media/profile.a258f388.svg",
+    "static/media/w_bishop.svg": "/react-chess/static/media/w_bishop.07e16392.svg",
+    "static/media/w_king.svg": "/react-chess/static/media/w_king.209f8af0.svg",
+    "static/media/w_knight.svg": "/react-chess/static/media/w_knight.a06a9056.svg",
+    "static/media/w_pawn.svg": "/react-chess/static/media/w_pawn.5cf462e4.svg",
+    "static/media/w_queen.svg": "/react-chess/static/media/w_queen.47bf56f2.svg",
+    "static/media/w_rook.svg": "/react-chess/static/media/w_rook.a3e85776.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.421fb380.js",
+    "static/js/2.68563be0.chunk.js",
+    "static/css/main.911359a6.chunk.css",
+    "static/js/main.8f229fad.chunk.js"
+  ]
+}

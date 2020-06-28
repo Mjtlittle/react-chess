@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1in" height="1in" version="1.1" viewBox="0 0 25.4 25.4" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(1.9073e-7 .42749)">
+  <g transform="translate(.046772 -.17282)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-width=".94363">
+   <path d="m10.826 10.905-4.5749 8.6969 6.4023 0.75047 6.4027-0.75047-4.573-8.695c-1.9993 0-1.8895 0.02757-3.6571-2e-3z" style="paint-order:fill markers stroke"/>
+   <rect x="10.27" y="5.2955" width="4.7666" height="7.6796" style="paint-order:fill markers stroke"/>
+   <rect x="7.652" y="11.633" width="10.002" height="2.6098" style="paint-order:fill markers stroke"/>
+   <circle cx="12.653" cy="5.801" r="3.6674" style="paint-order:fill markers stroke"/>
+   <rect x="4.5131" y="19.192" width="16.28" height="3.5651" style="paint-order:fill markers stroke"/>
+  </g>
+ </g>
+</svg>
